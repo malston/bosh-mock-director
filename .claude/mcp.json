@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "bosh": {
+      "command": "/Users/markalston/workspace/bosh-mcp-server/bosh-mcp-server",
+      "env": {
+        "BOSH_ENVIRONMENT": "https://localhost:25555",
+        "BOSH_CLIENT": "admin",
+        "BOSH_CLIENT_SECRET": "admin",
+        "BOSH_CA_CERT": ""
+      }
+    }
+  }
+}
